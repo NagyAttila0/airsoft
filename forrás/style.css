@@ -59,3 +59,24 @@ footer {
 .dolt{
   font-style: italic;
 }
+link a:visited{
+  color: rgb(218, 218, 218);
+}
+
+link{
+  color: white;
+}
+
+link a:hover{
+  color: gray;
+}
+
+link a:checked{
+  color: red;
+}
+
+#html_icon{
+  width: 50px;
+  text-align: center;
+  height: auto;
+}
